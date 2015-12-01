@@ -1,0 +1,9 @@
+{
+    "agentid": "sqlhistorian",
+    "connection": {
+        "type": "sqlite",
+        "params": {
+            "db": "/home/ubuntu/SQL/data/platform.historian.sqlite"
+        }
+    }
+}

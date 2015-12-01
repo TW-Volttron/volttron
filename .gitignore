@@ -15,5 +15,4 @@
 /build
 /configs/
 /config/
-
-volttron_auto_start.log
+/volttron_auto_start.log
